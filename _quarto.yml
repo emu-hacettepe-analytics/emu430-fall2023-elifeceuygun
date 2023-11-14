@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[Student/Group Full Name]'s Analytics Lab"
+  title: "Elif Ece Uygun's Analytics Lab"
   navbar:
     search: true
     left:
@@ -46,7 +46,7 @@ format:
     toc: true
     toc-location: left
     theme: 
-      light: pulse 
+      light: lux
       dark: superhero
     css: styles.css
 
