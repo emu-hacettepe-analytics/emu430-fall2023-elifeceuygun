@@ -5,26 +5,30 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+None
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Firm ESEN Sistem Entegrasyon, position Project Management Intern, year 2022
 
-2.  Firm bbb, position yyy, year yyy
+2.  Firm Türk Traktör, position Logistics Intern, year 2023
+
+3. Firm Türkiye Petrolleri Anonim Ortaklığı, position Engineer Intern, year 2023-2024
 
 # Projects
 
+1. Firm Mercedes Benz Türk, Graduation Project
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Microsoft Excel, Excel VBA, Matlab, IBM ILOG CPLEX, SolidWorks
 
 # Hobbies
+
+Dance
