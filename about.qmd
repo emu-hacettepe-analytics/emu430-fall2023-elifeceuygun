@@ -19,7 +19,7 @@ None
 
 2.  Firm Türk Traktör, position Logistics Intern, year 2023
 
-3.  Firm Türkiye Petrolleri Anonim Ortaklığı, position Engineer Intern, year 2023-2024
+3.  Firm Türkiye Petrolleri Anonim Ortaklığı, position Engineer Intern, year 2023 - ongoing.
 
 # Projects
 
@@ -33,6 +33,6 @@ R, Quarto, Git, Python, Microsoft Excel, Excel VBA, Matlab, IBM ILOG CPLEX, Soli
 
 Dance
 
-
+# CV
     
 [CV](https://drive.google.com/file/d/1jy4fs6y8siteQQ2SyHU9vwKziBV-pgHc/view?usp=sharing)
