@@ -3,10 +3,17 @@ title: "Our Course Project"
 sidebar: false 
 ---
 
-I'm honored to be a member of the \[group name\] project team.
+# I'm honored to be a member of the **icaRdi** project team.
 
-Below, you'll find a brief summary of our project. To access a detailed project description, please go to [https://\[your-project-url\]](#0){.uri}.
+## Group Members Alperen Gürkan - Elif Ece Uygun - Mert Canlı - Bekir Gök
 
-**Summary**
+Below, you'll find a brief summary of our project. To access a detailed project description, please go to [Project](https://alperengurkan.github.io/group_icaRdi/project.html)
 
-\[provide a biref summary of your project\]
+```{r}
+data <- read.csv("C:/Users/elife/OneDrive/Masaüstü/Football teams.csv")
+summary(data)
+```
+
+## Summary
+
+Our dataset's name is "Football teams \| Rankings \| Stats" taken from [Kaggle](https://www.kaggle.com/datasets/varpit94/football-teams-rankings-stats/) This dataset contains 10 columns and 98 observations. 2 of our variables are characteristic, 5 of them are continuous and the rest of the variables are discrete. The purpose of this project is to observe the relationship between variables and find the variables that have a big impact on the rating of the teams.
